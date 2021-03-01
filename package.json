@@ -1,5 +1,5 @@
 {
-  "name": "productos",
+  "name": "products",
   "version": "1.0.0",
   "description": "sistema de gestion de productos",
   "main": "index.js",
@@ -13,6 +13,15 @@
   "author": "walter",
   "license": "MIT",
   "dependencies": {
+    "init": "^0.1.2",
     "mustache": "^4.1.0"
-  }
+  },
+  "devDependencies": {},
+  "keywords": [
+    "sistema",
+    "de",
+    "gestion",
+    "de",
+    "productos"
+  ]
 }
